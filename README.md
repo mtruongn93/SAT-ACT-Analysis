@@ -11,8 +11,8 @@ SAT and ACT 2017 2018 Analysis
 
 For this project, we'll have two provided datasets:
 
-- [2017 SAT Scores](./data/sat_2017.csv)
-- [2017 ACT Scores](./data/act_2017.csv)
+- [2017 SAT Scores](data/sat_2017.csv)
+- [2017 ACT Scores](data/act_2017.csv)
 
 These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017.
 
